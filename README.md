@@ -2,6 +2,7 @@
 Real-Time Voice-to-Insight Assistant for Meetings**
 
 **🚧 Project Status: Actively Under Development**
+
 Core real-time pipeline is functional. Performance optimization, streaming mode, and advanced intelligence features are currently being enhanced.
 MeetingCopilot AI is a real-time, voice-driven meeting intelligence system that captures live system audio, transcribes speech using Faster-Whisper, and generates structured insights using a local Large Language Model (LLM).
 Designed for low-latency performance and full offline execution, it transforms meeting conversations into actionable AI-powered responses within seconds.
